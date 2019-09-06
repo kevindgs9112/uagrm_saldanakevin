@@ -10,10 +10,31 @@ FECHA:DDMMAAA
 
 QUE HICE HASTA AHORA? 
 aprendi a manejar las siguientes herramientas:
-angular, firebase, bigquery, github, entre otras.
+- angular
+- firebase
+- bigquery
+- github
+- app maker
 
 QUE HARE HOY?
 aprendo a utilizar la forma correcta de usar GitHub, creandome una cuenta, y descargando para luego subir un programita.
 
 COMO LO HARE?
 de manera practica, haciendo el ejercicio que el ingeniero nos dio para hacer y trabajar en clases.
+
+FECHA:DDMMAAA
+05/09/2019
+
+QUE HICE HASTA AHORA? 
+aprendi a manejar las siguientes herramientas:
+- angular
+- firebase
+- bigquery
+- github
+- app maker
+entendi la importancia de la Ingenieria de Requerimientos, patrones de diseño y prototipo.
+
+QUE HARE HOY?
+aprender a documentar e formato de mi proyecto de manera correcta.
+COMO LO HARE?
+de manera practica subiendolo al github
